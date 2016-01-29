@@ -27,6 +27,10 @@
 .pt-10 {
 	padding-top: 10%;
 }
+
+.pt-30{
+	padding-top: 30%;
+}
 .pb-5{
 	padding-bottom: 5%;
 }
@@ -36,6 +40,14 @@
 .pd-5-10{
 	padding: 5% 10%;
 }
+
+.pd-0-10{
+	padding: 0% 10%;
+}
+.pd-5-0-0-10{
+	padding: 5% 0 0 10%;
+}
+
 .mg-0{
 	margin: 0;
 }
