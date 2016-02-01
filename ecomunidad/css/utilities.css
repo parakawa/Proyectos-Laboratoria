@@ -1,6 +1,6 @@
 /*Global*/
 *{
-	font-family: "OpenSans-Light" Helvetica;
+	font-family: "OpenSans-Light" ,Helvetica;
 }
 
 @font-face{
@@ -26,10 +26,6 @@
 }
 .pt-10 {
 	padding-top: 10%;
-}
-
-.pt-30{
-	padding-top: 30%;
 }
 .pb-5{
 	padding-bottom: 5%;
