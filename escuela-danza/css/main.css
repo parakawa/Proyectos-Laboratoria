@@ -1,0 +1,51 @@
+a{
+	text-decoration: none;
+}
+
+.imagen-portada{
+	background-image:url("../img/dance_1.jpg");
+	height: 550px;
+}
+
+.studio{
+	width: 250px;
+}
+.studio p{
+	width: 80%;
+}
+.studio h1{
+	font-size: 80px;
+	color: #c3c6c5;
+}
+.btn-inscribete{
+	background-color: black;
+	padding: 15px 30px;
+	font-size: 16px;
+}
+
+.studio{
+	margin: 5% 0 0 10%;
+}
+.btn-oferta{
+	font-size: 19px;
+	padding: 2% 10%;
+	border-radius: 2.5%;
+	margin: auto;
+	display: block;
+}
+.description{
+	background-image:url("../img/textura_2.jpg");
+	padding: 5% 20%;
+}
+.description p{
+	font-size: 30px;
+}
+.ballet-izquierda{
+	background-image:url("../img/instructor_4.jpg");
+	height: 500px;
+}
+.ballet-derecha{
+	background-image:url("../img/profesor_9.jpg");
+	height: 500px;
+}
+

@@ -1,0 +1,100 @@
+/*Global*/
+*{
+	font-family: "Latolight";
+}
+
+@font-face{
+	font-family: LatoHeavy;
+	src: url(../fonts/LatoHeavy.ttf);
+}
+@font-face{
+	font-family:Latolight ;
+	src: url(../fonts/Latolight.ttf);
+}
+@font-face{
+	font-family: DolceVita;
+	src: url(../fonts/DolceVita.ttf);
+}
+@font-face{
+	font-family: Neoteric-Bold;
+	src: url(../fonts/Neoteric-Bold.ttf);
+}
+
+/* Shortcuts */
+
+.pd-0{
+	padding: 0;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.pt-10{
+	padding-top: 10%;
+}
+.pb-10{
+	padding-bottom: 10%;
+}
+.prl-10{
+	padding: 0 10%;
+}
+.mg-0{
+	margin: 0;
+}
+.mg-5{
+	margin: 5%;
+}
+.mt-5{
+	margin-top: 5%;
+}
+.mt-10{
+	margin-top: 10%;
+}
+.w-100{
+	width: 100%;
+}
+.w-10{
+	width: 10%;
+}
+.w-20{
+	width: 20%;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-white{
+	color: white;
+}
+.text-gray{
+	color: rgb(83, 88, 95);
+}
+.text-blue{
+ color: #192951;
+}
+.a-none-decoration{
+	text-decoration: none;
+}
+.bg-gray{
+	background-color: rgb(244, 244, 244);
+}
+.bg-blue{
+	background-color: #192951;
+}
+.bg-img-block{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.bg-img-top{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+}

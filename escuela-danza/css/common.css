@@ -1,0 +1,17 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+header nav a{
+	margin: 0% 3%;
+	font-size: 21px;
+}
+
+header nav{
+	margin: 1% 0 0 0;
+}
+
+button{
+	border: none;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+}
+
