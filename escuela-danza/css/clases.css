@@ -1,1 +1,14 @@
-/* Inserta tu codigo aqui */
+.foto-clases{
+	width: 70%;
+}
+
+.clases{
+	padding: 5%;
+}
+
+.clases-descripcion{
+	width: 20%;
+	background: rgba(0,0,0,0.5);
+	margin: auto;
+	font-size: 18px;
+}

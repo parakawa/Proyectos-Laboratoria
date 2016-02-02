@@ -1,1 +1,36 @@
-/* Inserta tu codigo aqui */
+.nosotros-portada{
+	background-image:url("../img/dance_7.jpg");
+	height: 500px;
+	padding-top: 6%;
+}
+.sobre-nosotros{
+	width: 600px;
+	height: 250px;
+	background: rgba(0,0,0,0.5);
+	margin: auto;
+	font-size: 21px;
+}
+.pilares{
+	background-image:url("../img/cubes.png");
+	background-repeat: repeat;
+	background-size: 100%;
+	padding: 5% 10%;
+	font-size: 20px;
+}
+.pilar{
+	padding: 0 6%;
+}
+.pilar h2{
+	border-bottom: 1px solid black;
+}
+.instructores{
+	padding: 7%;
+}
+.foto-instructor{
+	width: 80%;
+}
+.frase{
+	background-image:url("../img/cubes.png");
+	background-repeat: repeat;
+	height: 300px;
+}

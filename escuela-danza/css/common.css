@@ -1,11 +1,14 @@
 /* Inserta tu codigo que es común para todas las páginas aqui */
+a{
+	text-decoration: none;
+}
 header nav a{
 	margin: 0% 3%;
 	font-size: 21px;
 }
 
 header nav{
-	margin: 1% 0 0 0;
+	margin: 2% 0 2% 0;
 }
 
 button{
