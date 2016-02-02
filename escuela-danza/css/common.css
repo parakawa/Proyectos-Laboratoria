@@ -9,9 +9,19 @@ header nav{
 }
 
 button{
+	background-color: #192951; 
 	border: none;
 	text-align: center;
 	text-decoration: none;
 	color: white;
 }
 
+.contactenos{
+	background-image:url("../img/shoes_1.jpg");
+	height: 700px;
+}
+
+footer p{
+	padding:1.5%;
+	font-size: 18px;
+}

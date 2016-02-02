@@ -52,6 +52,9 @@
 .mt-10{
 	margin-top: 10%;
 }
+.mt-50-{
+	margin-top: -50px;
+}
 .w-100{
 	width: 100%;
 }
@@ -97,4 +100,10 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top;
+}
+.position-relative{
+	position: relative;
+}
+.weight-600{	
+	font-weight: 600;
 }

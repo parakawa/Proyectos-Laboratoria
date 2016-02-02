@@ -48,4 +48,25 @@ a{
 	background-image:url("../img/profesor_9.jpg");
 	height: 500px;
 }
-
+.btn-instructores{
+	padding: 1% 12%;
+	font-size: 25px;
+	position: relative;
+	top: -72px;
+}	
+.instructores{
+	position: relative;
+}
+.size-55{
+	font-size: 55px;
+}
+.concepto-danza{
+	background-image:url("../img/pattern-5.gif");
+	height: 350px;
+	padding: 2% 20% 5%;
+}
+.visitanos{
+	padding: 0 13% 0 5%;
+	line-height: 1.6;
+	font-size: 18px;	
+}
