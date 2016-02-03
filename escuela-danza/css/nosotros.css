@@ -27,7 +27,8 @@
 	padding: 7%;
 }
 .foto-instructor{
-	width: 80%;
+	width: 300px;
+	height: 250px;
 }
 .frase{
 	background-image:url("../img/cubes.png");
