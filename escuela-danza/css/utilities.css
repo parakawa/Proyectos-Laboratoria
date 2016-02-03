@@ -63,6 +63,9 @@
 .prl-10{
 	padding: 0 10%;
 }
+.ptl-5-10{
+	padding: 5% 0 0 10%;
+}
 .mg-auto{
 	margin: auto;
 }
@@ -144,6 +147,9 @@
 }
 .size-35{
 	font-size: 35px;
+}
+.size-40{
+	font-size: 40px;
 }
 .size-50{
 	font-size: 50px;

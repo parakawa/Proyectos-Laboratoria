@@ -21,10 +21,72 @@ button{
 
 .contactenos{
 	background-image:url("../img/shoes_1.jpg");
+	background-size: cover;
 	height: 700px;
 }
 
 footer p{
 	padding:1.5%;
 	font-size: 18px;
+}
+
+.caja-form {
+	padding:35px 35px 35px 50px;
+	width: 800px;
+	float: left;
+	left: 7%;
+	position: absolute;
+    margin-top:30px;
+}
+
+.input {
+	color:#3c3c3c; /*grey*/
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	line-height: 22px;
+	padding: 13px 13px 13px 54px;
+	margin-bottom: 10px;
+	width:100%;
+ 	border: 2px solid #dad7d7; /*grey*/
+}
+
+/* Icons ---------------------------------- */
+
+.icono{
+	background-size: 30px 30px;
+	background-position: 11px 8px;
+	background-repeat: no-repeat;
+}
+#name{
+	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+}
+
+#email{
+	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+}
+
+#comment{
+	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+}
+
+.button-blue{	
+	float:left;
+	width: 100%;
+	cursor:pointer;
+	background-color: #192951	;
+	color:white;
+	font-size:24px;
+	padding-top:22px;
+	padding-bottom:22px;
+  	margin-top:-4px;
+}
+
+.button-blue:hover{
+	background-color: rgba(0,0,0,0);
+	color: #192951;
 }
